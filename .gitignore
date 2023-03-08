@@ -1,0 +1,3 @@
+# ignored files and directories
+logs.txt
+node_modules/
